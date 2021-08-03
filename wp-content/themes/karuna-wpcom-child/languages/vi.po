@@ -1,0 +1,280 @@
+# Translation of WordPress.com - Themes - Karuna in Vietnamese
+# This file is distributed under the same license as the WordPress.com - Themes - Karuna package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-06 06:35:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: WordPress.com - Themes - Karuna\n"
+
+#: functions.php:80
+msgid "Green"
+msgstr "Xanh lá cây"
+
+#: functions.php:85
+msgid "Dark Green"
+msgstr "Xanh lá cây đậm"
+
+#: functions.php:75
+msgid "Dark Purple"
+msgstr "Tím đậm"
+
+#: functions.php:65
+msgid "White"
+msgstr "Trắng"
+
+#: functions.php:70
+msgid "Purple"
+msgstr "Màu tím"
+
+#: functions.php:60
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:55
+msgid "Medium Gray"
+msgstr "Xám vừa"
+
+#: functions.php:50
+msgid "Black"
+msgstr "Đen"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Tùy chọn giao diện"
+
+#: inc/customizer.php:28
+msgid "Display up to four Recent Posts on the static front page."
+msgstr "Hiển thị tối đa bốn Bài viết mới trên trang chủ."
+
+#: inc/woocommerce.php:289
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:291
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d mục"
+
+#: inc/wpcom-colors.php:128
+msgid "Headings"
+msgstr "Tiêu đề"
+
+#: inc/wpcom-colors.php:58
+msgid "Links"
+msgstr "Liên kết"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgid "Tagged"
+msgstr "Thẻ"
+
+#: inc/custom-header.php:35
+msgid "Rocks"
+msgstr "Rock"
+
+#: inc/custom-header.php:40
+msgid "Zen"
+msgstr "Zen"
+
+#: inc/custom-header.php:30
+msgid "Yoga"
+msgstr "Yoga"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/karuna/style.css
+msgid "Karuna is a clean business theme designed with health and wellness-focused sites in mind. With bright, bold colors, prominent featured images, and support for customer testimonials, your business' brand will shine with Karuna."
+msgstr "Karuna là giao diện thuộc thể loại công ty tập trung vào các trang web sức khỏe và thể hình. Với màu sắc tươi sáng, mạnh mẽ, hình ảnh nổi bật và cho phép thêm cảm nhận khách hàng, Karuna sẽ giúp thương hiệu của bạn tỏa sáng."
+
+#: inc/template-tags.php:28
+msgid "Featured"
+msgstr "Nổi bật"
+
+#. translators: %s: Name of current post
+#: functions.php:329
+msgid "Continue reading %s"
+msgstr "Đọc tiếp %s"
+
+#: functions.php:106
+msgid "Header"
+msgstr "Header"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/karuna/templates/full-width-page.php
+msgid "Full-Width Page"
+msgstr "Trang đầy bể rộng"
+
+#: single.php:20
+msgid "Next post"
+msgstr "Bài sau"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Bài trước"
+
+#: inc/template-tags.php:63
+msgid "% Comments"
+msgstr "% phản hồi"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm của: %s"
+
+#: inc/template-tags.php:63
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: inc/template-tags.php:63
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: inc/template-tags.php:44
+msgid ", posted in %1$s"
+msgstr ", được đăng tại %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:42 inc/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "bởi %s"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Bỏ qua nội dung"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:268
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:247
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: functions.php:237
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:227
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:217
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:197
+msgid "Full-Width Header"
+msgstr "Header 100% chiều rộng"
+
+#: functions.php:207
+msgid "Full-Width Footer"
+msgstr "Footer 100% chiều rộng"
+
+#: functions.php:187
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm ra cái mà bạn đang muốn. Có lẽ việc tìm kiếm có thể giúp bạn."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:38
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Đọc tiếp %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cái bạn tìm kiếm. Vui lòng thử lại với một vài từ khoá khác."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: components/page/content-page.php:21 components/post/content.php:43
+msgid "Pages:"
+msgstr "Trang:"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Menu"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Tự hào được hỗ trợ bởi %s"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/features/testimonials/content-testimonials.php:20
+msgid "Edit"
+msgstr "Sửa"
+
+#: components/features/recent-posts/recent-posts.php:23
+msgid "More Posts"
+msgstr "Thêm bài viết"
+
+#: components/features/recent-posts/recent-posts.php:12
+msgid "Recent Posts"
+msgstr "Bài viết mới"
+
+#. translators: %s: Name of current post
+#: components/features/recent-posts/content-recent-posts.php:31
+#: components/page/content-page.php:31 inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Bình luận đã được đóng."
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Bình luận mới"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Bình luận cũ"
+
+#: archive-jetpack-testimonial.php:26
+msgid "Testimonials"
+msgstr "Nhận xét của khách hàng "
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Một suy nghĩ %1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dường như chẳng tìm thấy gì ở đây. Có lẽ nên thử tìm kiếm?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."

@@ -1,0 +1,112 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "stylesheet": "pub/karuna"
+        },
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+            "header_image_data": {
+                "attachment_id": 126,
+                "url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "thumbnail_url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "height": 799,
+                "width": 2000
+            },
+            "nav_menu_locations": {
+                "menu-1": "menu-1"
+            },
+            "custom_logo": "https://headstartdata.files.wordpress.com/2017/02/yogalogo3.png",
+            "header_textcolor": "333333",
+            "jetpack_testimonials": {
+                "page-title": "Görüşler",
+                "page-content": "<p>Bu bir görüş arşiv sayfasıdır. <a href=\"http://en.support.wordpress.com/customizer/\">Özelleştirici</a> ile bu metni özelleştirebilirsiniz.</p>\n<p>Görüşler sayfası, <a href=“http://en.support.wordpress.com/menus/#adding-custom-links” title=“Links Panel\">Bağlantı Paneli</a> kullanılarak <a href=\"http://en.support.wordpress.com/menus/“ title=“Custom Menu\">Özel Menü</a>’ye eklenebilir.</p>\n<p>Görüş arşiv sayfası, http://harikasiteniz.wordpress.com/testimonial/ adresinden bulunabilir; http://harikasiteniz.wordpress.com/ kısmını web sitenizin URL’si ile değiştirmeniz yeterlidir.</p>\n"
+            },
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#6636cc",
+                    "link": "#85cc36",
+                    "fg1": "#333333",
+                    "fg2": "#ffffff"
+                },
+                "cached": false
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": "Search"
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "İletişim",
+            "post_content": "Bu, bazı temel bilgilerin ve bir iletişim formunun yer aldığı bir iletişim sayfasıdır. [contact-form][contact-field label=\"Ad\" type=\"name\" required=\"1\"/][contact-field label=\"E-posta\" type=\"email\" required=\"1\"/][contact-field label=\"Web sitesi\" type=\"url\"/][contact-field label=\"Yorum\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/06/person-smartphone-office-table.jpeg",
+            "hs_old_id": 101,
+            "post_excerpt": "Bu yalnızca iletişim&nbsp;sayfası için kısa bir alıntıdır."
+        },
+        {
+            "post_title": "İlk blog gönderisi",
+            "post_content": "Bu ilk gönderiniz. Değiştirmek veya silmek için Düzenle'ye tıklayın veya <a href=\"https://wordpress.com/post\">yeni bir gönderi başlatın</a>. İsterseniz, okuyuculara bu bloga neden başladığınızı ve ne yapmayı planladığınızı söylemek için bu gönderiyi kullanın.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 102,
+            "post_excerpt": "Bu ilk gönderinizin kısa bir alıntısıdır."
+        },
+        {
+            "post_title": "Giriş",
+            "post_content": "Yeni sitenize hoş geldiniz!  Düzenle bağlantısına tıklayarak bu sayfayı düzenleyebilirsiniz.  Sitenizi özelleştirme hakkında daha fazla bilgi için <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a> adresini kontrol edin",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "page_template": "default",
+            "hs_old_id": 103,
+            "post_excerpt": "Bu, ana sayfanın alıntısıdır"
+        },
+        {
+            "post_title": "Blog",
+            "post_content": "Bu, kullanıcıların sitenizin blogunu bulacağı sayfadır",
+            "post_status": "publish",
+            "menu_order": 4,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 104,
+            "post_excerpt": "Bu yalnızca blogunuz hakkında kısa bir alıntıdır."
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "stylesheet": "pub/karuna"
+        },
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+            "header_image_data": {
+                "attachment_id": 126,
+                "url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "thumbnail_url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "height": 799,
+                "width": 2000
+            },
+            "nav_menu_locations": {
+                "menu-1": "menu-1"
+            },
+            "custom_logo": "https://headstartdata.files.wordpress.com/2017/02/yogalogo3.png",
+            "header_textcolor": "333333",
+            "jetpack_testimonials": {
+                "page-title": "證言",
+                "page-content": "<p>這是證言封存網頁。你可以在<a href=\"http://en.support.wordpress.com/customizer/\">自訂工具</a>中自訂這段文字。</p>\n<p>你可以使用<a href=“http://en.support.wordpress.com/menus/#adding-custom-links” title=“Links Panel\">連結面板</a>將證言網頁新增至<a href=\"http://en.support.wordpress.com/menus/“ title=“Custom Menu\">自訂選單</a>中。</p>\n<p>你可以在 http://yourgroovysite.wordpress.com/testimonial/ 找到證言封存網頁 — 只須將 http://yourgroovysite.wordpress.com/ 替換成網站的 URL 即可。</p>\n"
+            },
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#6636cc",
+                    "link": "#85cc36",
+                    "fg1": "#333333",
+                    "fg2": "#ffffff"
+                },
+                "cached": false
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": "Search"
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "聯絡",
+            "post_content": "這是提供基本聯絡資訊和聯絡表單的聯絡頁面。[contact-form][contact-field label=\"姓名\" type=\"name\" required=\"1\"/][contact-field label=\"電子郵件\" type=\"email\" required=\"1\"/][contact-field label=\"網站\" type=\"url\"/][contact-field label=\"留言\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/06/person-smartphone-office-table.jpeg",
+            "hs_old_id": 101,
+            "post_excerpt": "這只是聯絡&nbsp;頁面的簡短摘要。"
+        },
+        {
+            "post_title": "第一篇網誌文章",
+            "post_content": "這是你發表的第一篇文章。按一下「編輯」連結即可修改或刪除文章，或是<a href=\"https://wordpress.com/post\">開始撰寫新文章</a>。你可以利用這篇文章告訴讀者這個網誌的建立原因，以及網誌的未來計畫。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 102,
+            "post_excerpt": "這是你第一篇文章的文章摘要。"
+        },
+        {
+            "post_title": "首頁",
+            "post_content": "歡迎來到你的全新網站！你可以按一下「編輯」連結修改這個頁面。如需自訂網站的更多相關資訊，請造訪 <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "page_template": "default",
+            "hs_old_id": 103,
+            "post_excerpt": "這是首頁的摘要"
+        },
+        {
+            "post_title": "網誌",
+            "post_content": "使用者可在此網頁找到你的網誌",
+            "post_status": "publish",
+            "menu_order": 4,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 104,
+            "post_excerpt": "這只是你網誌的簡短摘要。"
+        }
+    ]
+}

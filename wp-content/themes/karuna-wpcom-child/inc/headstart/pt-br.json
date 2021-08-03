@@ -1,0 +1,112 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "stylesheet": "pub/karuna"
+        },
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+            "header_image_data": {
+                "attachment_id": 126,
+                "url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "thumbnail_url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "height": 799,
+                "width": 2000
+            },
+            "nav_menu_locations": {
+                "menu-1": "menu-1"
+            },
+            "custom_logo": "https://headstartdata.files.wordpress.com/2017/02/yogalogo3.png",
+            "header_textcolor": "333333",
+            "jetpack_testimonials": {
+                "page-title": "Depoimentos",
+                "page-content": "<p>Esta é uma página de arquivo de depoimentos. É possível personalizar seu texto no <a href=\"http://en.support.wordpress.com/customizer/\">Personalizador</a>.</p>\n<p>A página de depoimentos pode ser adicionada ao <a href=\"http://en.support.wordpress.com/menus/“ title=“Custom Menu\">Menu personalizado</a>, usando o <a href=“http://en.support.wordpress.com/menus/#adding-custom-links” title=“Links Panel\">Painel de links</a>.</p>\n<p>Você encontra a página do arquivo de depoimentos no link http://yourgroovysite.wordpress.com/testimonial/. Basta substituir http://yourgroovysite.wordpress.com/ pela URL do seu site.</p>\n"
+            },
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#6636cc",
+                    "link": "#85cc36",
+                    "fg1": "#333333",
+                    "fg2": "#ffffff"
+                },
+                "cached": false
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": "Search"
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Contato",
+            "post_content": "Esta é uma página Contato com algumas informações básicas de contato e um formulário de contato. [contact-form][contact-field label=\"Nome\" type=\"name\" required=\"1\"/][contact-field label=\"Email\" type=\"email\" required=\"1\"/][contact-field label=\"Site\" type=\"url\"/][contact-field label=\"Comentário\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/06/person-smartphone-office-table.jpeg",
+            "hs_old_id": 101,
+            "post_excerpt": "Esse é apenas um pequeno resumo para a página&nbsp;Contato."
+        },
+        {
+            "post_title": "Primeiro post do blog",
+            "post_content": "Este é seu primeiro post. Clique no link Editar, para modificar ou excluir, ou então, <a href=\"https://wordpress.com/post\">comece um novo post</a>. Se preferir, use esta publicação para informar aos leitores o motivo pelo qual você iniciou este blog e o que planeja fazer com ele.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 102,
+            "post_excerpt": "Este é um resumo da sua primeira publicação."
+        },
+        {
+            "post_title": "Página Inicial",
+            "post_content": "Bem-vindo ao seu novo site!  Você pode editar esta página ao clicar no link Editar.  Para obter mais informações sobre como personalizar seu site, acesse <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "page_template": "default",
+            "hs_old_id": 103,
+            "post_excerpt": "Esse é o resumo da página inicial"
+        },
+        {
+            "post_title": "Blog",
+            "post_content": "Essa é a página na qual os usuários encontrarão o blog do seu site",
+            "post_status": "publish",
+            "menu_order": 4,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 104,
+            "post_excerpt": "Esse é apenas um pequeno resumo sobre o seu blog."
+        }
+    ]
+}

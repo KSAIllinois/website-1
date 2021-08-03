@@ -1,0 +1,112 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "stylesheet": "pub/karuna"
+        },
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+            "header_image_data": {
+                "attachment_id": 126,
+                "url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "thumbnail_url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "height": 799,
+                "width": 2000
+            },
+            "nav_menu_locations": {
+                "menu-1": "menu-1"
+            },
+            "custom_logo": "https://headstartdata.files.wordpress.com/2017/02/yogalogo3.png",
+            "header_textcolor": "333333",
+            "jetpack_testimonials": {
+                "page-title": "推薦文",
+                "page-content": "<p>これは推薦文のアーカイブページです。このテキストは、<a href=\"http://en.support.wordpress.com/customizer/\">カスタマイザー</a>でカスタマイズできます。</p>\n<p>推薦文のページは、<a href=“http://en.support.wordpress.com/menus/#adding-custom-links” title=“Links Panel\">リンクパネル</a>を使用して<a href=\"http://en.support.wordpress.com/menus/“ title=“Custom Menu\">カスタムメニュー</a>に追加できます。</p>\n<p>推薦文のアーカイブページは、http://yourgroovysite.wordpress.com/testimonial/ からご確認いただけます。または、http://yourgroovysite.wordpress.com/ をお使いのサイトの URL に置き換えて確認することもできます。</p>\n"
+            },
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#6636cc",
+                    "link": "#85cc36",
+                    "fg1": "#333333",
+                    "fg2": "#ffffff"
+                },
+                "cached": false
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": "Search"
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "お問い合わせ",
+            "post_content": "これは、「お問い合わせ」ページです。このページには、基本的な連絡先情報とお問い合わせフォームがあります。[contact-form][contact-field label=\"名前\" type=\"name\" required=\"1\"/][contact-field label=\"メール\" type=\"email\" required=\"1\"/][contact-field label=\"サイト\" type=\"url\"/][contact-field label=\"コメント\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/06/person-smartphone-office-table.jpeg",
+            "hs_old_id": 101,
+            "post_excerpt": "これは、「お問い合わせ」ページの抜粋です。&nbsp;"
+        },
+        {
+            "post_title": "最初のブログ投稿",
+            "post_content": "これは最初の投稿です。編集リンクをクリックして内容の変更や削除を行うか、<a href=\"https://wordpress.com/post\">新しい投稿を追加</a>しましょう。この投稿内で、なぜブログを始めたのか、どんなことについてブログを書いていくのか、といったことを読者に伝えるのもよいでしょう。",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 102,
+            "post_excerpt": "これは、最初の投稿の抜粋です。"
+        },
+        {
+            "post_title": "ホーム",
+            "post_content": "新しいサイトへようこそ !「編集」リンクをクリックすると、このページを編集できます。サイトのカスタマイズに関する詳細は、<a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a> をご確認ください。",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "page_template": "default",
+            "hs_old_id": 103,
+            "post_excerpt": "これはホームページの抜粋です"
+        },
+        {
+            "post_title": "ブログ",
+            "post_content": "これはユーザーがサイトのブログを見つけるページです",
+            "post_status": "publish",
+            "menu_order": 4,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 104,
+            "post_excerpt": "これはブログの短い抜粋です。"
+        }
+    ]
+}

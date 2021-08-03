@@ -1,0 +1,253 @@
+# Translation of WordPress.com - Themes - Karuna in English (UK)
+# This file is distributed under the same license as the WordPress.com - Themes - Karuna package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-20 00:49:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: WordPress.com - Themes - Karuna\n"
+
+#: functions.php:85
+msgid "Dark Green"
+msgstr "Dark Green"
+
+#: functions.php:80
+msgid "Green"
+msgstr "Green"
+
+#: functions.php:75
+msgid "Dark Purple"
+msgstr "Dark Purple"
+
+#: functions.php:70
+msgid "Purple"
+msgstr "Purple"
+
+#: functions.php:65
+msgid "White"
+msgstr "White"
+
+#: functions.php:60
+msgid "Light Gray"
+msgstr "Light Gray"
+
+#: functions.php:55
+msgid "Medium Gray"
+msgstr "Medium Gray"
+
+#: functions.php:50
+msgid "Black"
+msgstr "Black"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:291
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d items"
+
+#: inc/woocommerce.php:289
+msgid "View your shopping cart"
+msgstr "View your shopping basket"
+
+#: inc/wpcom-colors.php:128
+msgid "Headings"
+msgstr "Headings"
+
+#: inc/wpcom-colors.php:114
+msgid "Secondary Accent"
+msgstr "Secondary Accent"
+
+#: inc/wpcom-colors.php:58
+msgid "Links"
+msgstr "Links"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgid "Tagged"
+msgstr "Tagged"
+
+#: inc/template-tags.php:28
+msgid "Featured"
+msgstr "Featured"
+
+#. translators: %s: Name of current post
+#: functions.php:329
+msgid "Continue reading %s"
+msgstr "Continue reading %s"
+
+#: functions.php:106
+msgid "Header"
+msgstr "Header"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/karuna/templates/full-width-page.php
+msgid "Full-Width Page"
+msgstr "Full-Width Page"
+
+#: single.php:20
+msgid "Next post"
+msgstr "Next Post"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Previous Post"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:63
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:63
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:63
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:42 inc/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "by %s"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:268
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:247
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: functions.php:237
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:227
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:217
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:187
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:38
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: components/page/content-page.php:21 components/post/content.php:43
+msgid "Pages:"
+msgstr "Pages:"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Menu"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/features/testimonials/content-testimonials.php:20
+msgid "Edit"
+msgstr "Edit"
+
+#: components/features/recent-posts/recent-posts.php:23
+msgid "More Posts"
+msgstr "More Posts"
+
+#: components/features/recent-posts/recent-posts.php:12
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#. translators: %s: Name of current post
+#: components/features/recent-posts/content-recent-posts.php:31
+#: components/page/content-page.php:31 inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: archive-jetpack-testimonial.php:26
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."

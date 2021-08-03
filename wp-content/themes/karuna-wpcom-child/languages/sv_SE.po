@@ -1,0 +1,277 @@
+# Translation of WordPress.com - Themes - Karuna in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Karuna package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-26 15:15:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Karuna\n"
+
+#: functions.php:85
+msgid "Dark Green"
+msgstr "Mörkgrön"
+
+#: functions.php:80
+msgid "Green"
+msgstr "Grönt"
+
+#: functions.php:75
+msgid "Dark Purple"
+msgstr "Mörklila"
+
+#: functions.php:70
+msgid "Purple"
+msgstr "Lila"
+
+#: functions.php:65
+msgid "White"
+msgstr "Vit"
+
+#: functions.php:60
+msgid "Light Gray"
+msgstr "Ljusgrå"
+
+#: functions.php:55
+msgid "Medium Gray"
+msgstr "Medelgrå"
+
+#: functions.php:50
+msgid "Black"
+msgstr "Svart"
+
+#: inc/customizer.php:28
+msgid "Display up to four Recent Posts on the static front page."
+msgstr "Visa upp till fyra senaste inlägg på den statiska startsidan."
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temainställningar"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:291
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekt"
+
+#: inc/woocommerce.php:289
+msgid "View your shopping cart"
+msgstr "Visa din varukorg"
+
+#: inc/wpcom-colors.php:128
+msgid "Headings"
+msgstr "Rubriker"
+
+#: inc/wpcom-colors.php:114
+msgid "Secondary Accent"
+msgstr "Sekundär accentuering"
+
+#: inc/wpcom-colors.php:58
+msgid "Links"
+msgstr "Länkar"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgid "Tagged"
+msgstr "Taggad"
+
+#: inc/custom-header.php:40
+msgid "Zen"
+msgstr "Zen"
+
+#: inc/custom-header.php:35
+msgid "Rocks"
+msgstr "Klippa"
+
+#: inc/custom-header.php:30
+msgid "Yoga"
+msgstr "Yoga"
+
+#: inc/template-tags.php:28
+msgid "Featured"
+msgstr "Utvalda"
+
+#. translators: %s: Name of current post
+#: functions.php:329
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#: functions.php:106
+msgid "Header"
+msgstr "Sidhuvud"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/karuna/templates/full-width-page.php
+msgid "Full-Width Page"
+msgstr "Sida fullbredd"
+
+#: single.php:20
+msgid "Next post"
+msgstr "Följande inlägg"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Tidigare inlägg"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: inc/template-tags.php:63
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:63
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:63
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:44
+msgid ", posted in %1$s"
+msgstr ", publicerad i %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:42 inc/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "av %s"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:268
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:247
+msgid "Footer 4"
+msgstr "Sidfot 4"
+
+#: functions.php:237
+msgid "Footer 3"
+msgstr "Sidfot 3"
+
+#: functions.php:227
+msgid "Footer 2"
+msgstr "Sidfot 2"
+
+#: functions.php:217
+msgid "Footer 1"
+msgstr "Sidfot 1"
+
+#: functions.php:207
+msgid "Full-Width Footer"
+msgstr "Fullbredd på sidfot"
+
+#: functions.php:187
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:38
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa %s <span class=\"meta-nav\">→</span>"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar inte som om vi kan hitta det du letar efter. Kanske kan en sökning hjälpa."
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ledsen, inget matchade dina sökkriterier. Vänligen försök igen med andra nyckelord."
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att posta ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Inget funnet"
+
+#: components/page/content-page.php:21 components/post/content.php:43
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Meny"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/features/testimonials/content-testimonials.php:20
+msgid "Edit"
+msgstr "Redigera"
+
+#: components/features/recent-posts/recent-posts.php:23
+msgid "More Posts"
+msgstr "Fler inlägg"
+
+#: components/features/recent-posts/recent-posts.php:12
+msgid "Recent Posts"
+msgstr "Senaste inläggen"
+
+#. translators: %s: Name of current post
+#: components/features/recent-posts/content-recent-posts.php:31
+#: components/page/content-page.php:31 inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Ändra %s"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Kommentarsfältet är stängt."
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner till &ldquo;%2$s&rdquo;"
+
+#: archive-jetpack-testimonial.php:26
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar inte som något kunde hittas för den här platsen. Testa en sökning kanske?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."

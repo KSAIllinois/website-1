@@ -1,0 +1,112 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "stylesheet": "pub/karuna"
+        },
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+            "header_image_data": {
+                "attachment_id": 126,
+                "url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "thumbnail_url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "height": 799,
+                "width": 2000
+            },
+            "nav_menu_locations": {
+                "menu-1": "menu-1"
+            },
+            "custom_logo": "https://headstartdata.files.wordpress.com/2017/02/yogalogo3.png",
+            "header_textcolor": "333333",
+            "jetpack_testimonials": {
+                "page-title": "Отзывы",
+                "page-content": "<p>На этой странице расположен архив отзывов. Этот текст можно отредактировать в <a href=\"http://en.support.wordpress.com/customizer/\">конфигураторе</a>.</p>\n<p>Страницу ”Отзывы” можно добавить в <a href=\"http://en.support.wordpress.com/menus/“ title=“Custom Menu\">пользовательское меню</a> с помощью инструмента <a href=“http://en.support.wordpress.com/menus/#adding-custom-links” title=“Links Panel\">Панель ссылок</a>.</p>\n<p>Архив отзывов находится по адресу http://yourgroovysite.wordpress.com/testimonial/ — просто замените http://yourgroovysite.wordpress.com/ на URL-адрес вашего веб-сайта.</p>\n"
+            },
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#6636cc",
+                    "link": "#85cc36",
+                    "fg1": "#333333",
+                    "fg2": "#ffffff"
+                },
+                "cached": false
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": "Search"
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Контакты",
+            "post_content": "На этой странице представлена основная контактная информация и расположена контактная форма. [contact-form][contact-field label=\"Имя\" type=\"name\" required=\"1\"/][contact-field label=\"Адрес эл. почты\" type=\"email\" required=\"1\"/][contact-field label=\"Веб-сайт\" type=\"url\"/][contact-field label=\"Комментарий\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/06/person-smartphone-office-table.jpeg",
+            "hs_old_id": 101,
+            "post_excerpt": "Это небольшая цитата для страницы&nbsp;«Контакты»."
+        },
+        {
+            "post_title": "Первая запись в блоге",
+            "post_content": "Это ваша самая первая запись. Чтобы отредактировать или удалить её, нажмите кнопку «Изменить» или <a href=\"https://wordpress.com/post\">создайте новую запись</a>. Если вы хотите написать что-нибудь ещё, расскажите читателям, почему завели блог и что планируете в нём публиковать.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 102,
+            "post_excerpt": "Это цитата для вашей первой записи."
+        },
+        {
+            "post_title": "Главная",
+            "post_content": "Добро пожаловать на ваш новый сайт!  Чтобы отредактировать эту страницу, нажмите ”Изменить”.  Дополнительную информацию о настройке сайта см. на странице <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/</a>.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "page_template": "default",
+            "hs_old_id": 103,
+            "post_excerpt": "Это цитата для главной страницы."
+        },
+        {
+            "post_title": "Блог",
+            "post_content": "Это страница, на которой будет располагаться блог вашего сайта.",
+            "post_status": "publish",
+            "menu_order": 4,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 104,
+            "post_excerpt": "Это небольшая цитата о вашем блоге."
+        }
+    ]
+}

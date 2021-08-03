@@ -1,0 +1,275 @@
+# Translation of WordPress.com - Themes - Karuna in Czech
+# This file is distributed under the same license as the WordPress.com - Themes - Karuna package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-28 07:26:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: WordPress.com - Themes - Karuna\n"
+
+#: functions.php:85
+msgid "Dark Green"
+msgstr "Tmavě zelená"
+
+#: functions.php:80
+msgid "Green"
+msgstr "Zelená"
+
+#: functions.php:75
+msgid "Dark Purple"
+msgstr "Temně fialová"
+
+#: functions.php:70
+msgid "Purple"
+msgstr "Fialové"
+
+#: functions.php:65
+msgid "White"
+msgstr "Bílá"
+
+#: functions.php:60
+msgid "Light Gray"
+msgstr "Světle šedá"
+
+#: functions.php:55
+msgid "Medium Gray"
+msgstr "Šedá normální"
+
+#: functions.php:50
+msgid "Black"
+msgstr "Černá"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Rozšířené možnosti nastavení"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:291
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d položka"
+msgstr[1] "%d položky"
+msgstr[2] "%d položek"
+
+#: inc/woocommerce.php:289
+msgid "View your shopping cart"
+msgstr "Zobrazit košík"
+
+#: inc/wpcom-colors.php:128
+msgid "Headings"
+msgstr "Nadpisy"
+
+#: inc/wpcom-colors.php:58
+msgid "Links"
+msgstr "Odkazy"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgid "Tagged"
+msgstr "Označeno tagem"
+
+#: inc/custom-header.php:40
+msgid "Zen"
+msgstr "Zen"
+
+#: inc/custom-header.php:35
+msgid "Rocks"
+msgstr "Skály"
+
+#: inc/custom-header.php:30
+msgid "Yoga"
+msgstr "Jóga"
+
+#: inc/template-tags.php:28
+msgid "Featured"
+msgstr "Doporučeno"
+
+#. translators: %s: Name of current post
+#: functions.php:329
+msgid "Continue reading %s"
+msgstr "Pokračování textu %s"
+
+#: functions.php:106
+msgid "Header"
+msgstr "Záhlaví"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/karuna/templates/full-width-page.php
+msgid "Full-Width Page"
+msgstr "Stránka bez postranního panelu"
+
+#: single.php:20
+msgid "Next post"
+msgstr "Následující příspěvek"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Předchozí příspěvek"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání: %s"
+
+#: inc/template-tags.php:63
+msgid "% Comments"
+msgstr "% komentáře"
+
+#: inc/template-tags.php:63
+msgid "1 Comment"
+msgstr "Komentáře: 1"
+
+#: inc/template-tags.php:63
+msgid "Leave a comment"
+msgstr "Napsat komentář"
+
+#: inc/template-tags.php:44
+msgid ", posted in %1$s"
+msgstr ", posláno do %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:42 inc/template-tags.php:58
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "od %s"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Karla, translate this to 'off'. Do not translate into your own language.
+#: functions.php:268
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr "zapnout"
+
+#: functions.php:247
+msgid "Footer 4"
+msgstr "Zápatí 4"
+
+#: functions.php:237
+msgid "Footer 3"
+msgstr "Zápatí 3"
+
+#: functions.php:227
+msgid "Footer 2"
+msgstr "Zápatí 2"
+
+#: functions.php:217
+msgid "Footer 1"
+msgstr "Zápatí 1"
+
+#: functions.php:207
+msgid "Full-Width Footer"
+msgstr "Plná šířka zápatí"
+
+#: functions.php:197
+msgid "Full-Width Header"
+msgstr "Plná šířka záhlaví"
+
+#: functions.php:187
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:38
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Pokračovat ve čtení %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale zadaný výraz nebyl na webu nalezen. Zkuste prosím hledat znovu nějaké jiné klíčové slovo."
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Chystáte se publikovat první příspěvek? <a href=\"%1$s\">Můžete začít rovnou zde</a>."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: components/page/content-page.php:21 components/post/content.php:43
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Menu"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Šablona: %1$s od %2$s."
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Používáme %s (v češtině)."
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://cs.wordpress.org/"
+
+#: components/features/testimonials/content-testimonials.php:20
+msgid "Edit"
+msgstr "Upravit"
+
+#: components/features/recent-posts/recent-posts.php:23
+msgid "More Posts"
+msgstr "Více příspěvků"
+
+#: components/features/recent-posts/recent-posts.php:12
+msgid "Recent Posts"
+msgstr "Nejnovější příspěvky"
+
+#. translators: %s: Name of current post
+#: components/features/recent-posts/content-recent-posts.php:31
+#: components/page/content-page.php:31 inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Upravit %s"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Navigace pro komentáře"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 komentář: &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře: &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů: &bdquo;%2$s&ldquo;"
+
+#: archive-jetpack-testimonial.php:26
+msgid "Testimonials"
+msgstr "Reference"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Omlouváme se, ale stránka nebyla nalezena."

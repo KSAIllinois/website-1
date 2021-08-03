@@ -1,0 +1,112 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "stylesheet": "pub/karuna"
+        },
+        "theme_mods": {
+            "0": false,
+            "header_image": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+            "header_image_data": {
+                "attachment_id": 126,
+                "url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "thumbnail_url": "https://karunademo.files.wordpress.com/2016/06/cropped-photo-1429277096327-11ee3b761c93.jpeg",
+                "height": 799,
+                "width": 2000
+            },
+            "nav_menu_locations": {
+                "menu-1": "menu-1"
+            },
+            "custom_logo": "https://headstartdata.files.wordpress.com/2017/02/yogalogo3.png",
+            "header_textcolor": "333333",
+            "jetpack_testimonials": {
+                "page-title": "המלצות",
+                "page-content": "<p>זהו דף ארכיון של המלצות. באפשרותך להתאים אישית טקסט זה <a href=\"http://en.support.wordpress.com/customizer/\">בכלי ההתאמה האישית</a>.</p>\n<p>אפשר להוסיף עמוד המלצות <a href=\"http://en.support.wordpress.com/menus/“ title=“Custom Menu\">לתפריט ההתאמה האישית</a> באמצעות <a href=“http://en.support.wordpress.com/menus/#adding-custom-links” title=“Links Panel\">חלונית הקישורים</a>.</p>\n<p>ניתן להגיע לדף הארכיון של המלצות בכתובתhttp://yourgroovysite.wordpress.com/testimonial/ ‎ — כל שיש לעשות הוא להחליף אתhttp://yourgroovysite.wordpress.com/ ‎ בכתובת האתר שלך.</p>\n"
+            },
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "txt": "#6636cc",
+                    "link": "#85cc36",
+                    "fg1": "#333333",
+                    "fg2": "#ffffff"
+                },
+                "cached": false
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": "Search"
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "יצירת קשר",
+            "post_content": "זהו עמוד 'יצירת קשר' שכולל פרטי קשר בסיסיים וכן טופס יצירת קשר. [contact-form][contact-field label=\"שם\" type=\"name\" required=\"1\"/][contact-field label=\"אימייל\" type=\"email\" required=\"1\"/][contact-field label=\"אתר אינטרנט\" type=\"url\"/][contact-field label=\"תגובה\" type=\"textarea\" required=\"1\"/][/contact-form]",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "attachment_url": "https://headstartdata.files.wordpress.com/2016/06/person-smartphone-office-table.jpeg",
+            "hs_old_id": 101,
+            "post_excerpt": "זהו תקציר עבור עמוד&nbsp;'יצירת קשר'."
+        },
+        {
+            "post_title": "פוסט ראשון בבלוג",
+            "post_content": "הפוסט הזה הוא הראשון שלך. יש ללחוץ על הקישור 'עריכה' כדי לשנות או למחוק אותו או <a href=\"https://wordpress.com/post\">להתחיל פוסט חדש</a>. אפשר לנצל את הפוסט הזה כדי להסביר לקוראים מדוע פתחת את הבלוג ומה בכוונתך לעשות אתו.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 102,
+            "post_excerpt": "זהו התקציר של הפוסט הראשון שלך."
+        },
+        {
+            "post_title": "ראשי",
+            "post_content": "ברוכים הבאים לאתר החדש שלכם!  אפשר לערוך עמוד זה על ידי לחיצה על הקישור 'עריכה'.  למידע נוסף על התאמה אישית של האתר, כדאי לבקר בכתובת <a href=\"http://learn.wordpress.com/\">http://learn.wordpress.com/‎</a>",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "page_template": "default",
+            "hs_old_id": 103,
+            "post_excerpt": "זהו תקציר של עמוד הבית"
+        },
+        {
+            "post_title": "בלוג",
+            "post_content": "זהו העמוד שבו משתמשים ימצאו את הבלוג באתר שלך",
+            "post_status": "publish",
+            "menu_order": 4,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 0,
+            "hs_like_status": 0,
+            "hs_old_id": 104,
+            "post_excerpt": "זהו תקציר עבור הבלוג שלך."
+        }
+    ]
+}
