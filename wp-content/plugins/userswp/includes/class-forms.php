@@ -626,7 +626,7 @@ class UsersWP_Forms {
      * Assign username as the name & front domain part of the email (e.g. janedoe@gmail.com = janedoe_gmail)
      */
     $email_name = ! empty( $email ) ? explode('@', $result['email'])[0] : '';
-    $email_domain_front = ! empty( $email ) ? explode('.', explode('@', $result['email'])[1]) : '';
+    $email_domain_front = ! empty( $email ) ? explode('.', explode('@', $result['email'])[1])[0] : '';
     $user_login = ! empty( $email_name ) && ! empty ( $email_domain_front ) ? $email_name.'_'.$email_domain_front : '';
 
 
@@ -653,6 +653,7 @@ class UsersWP_Forms {
 						'content' => __( 'Sorry, that username is not allowed.', 'userswp' )
 					)
 				);
+
 				if ( wp_doing_ajax() ) {
 					wp_send_json_error( $message );
 				} else {
